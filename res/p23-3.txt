@@ -1,0 +1,345 @@
+1.Food for special event 
+2.Interesting old person 
+3.Grandparent's job 
+4.Something lost and found 
+5.Healthy lifestyle 
+6.Sth that helps study or work 
+7.Bad service 
+8.Historical period to know 
+9.Public facility newly built 
+10.0utdoor sport 
+11. Person made you laugh 
+12.A person you would like to study or work... 
+13.A regular thing 
+14.Visited a place 
+15.Something you want to do 
+16.A free day off 
+17.A couple you know who have a happy marriage
+18.A person who solved a problem in a clever way > 
+19.A person who is helpful to you in study or work > 
+20.An invention that changed the world 
+21.A kind of plant or flower 
+22.A favorite piece of clothing 
+23.A place you crowed with a lot of people 
+24.A city you've visited that you like 
+25.A cafe you enjoyed 
+26.A foreign country that you want to work in for a short time> 
+27.Something you've always wanted to do but haven't done yet> 
+28.An English lesson that you have taken 
+29.An occasion that you arrive early 
+30.An activity near the sea 
+31.An occasion that you have a cake that is special 
+32.A favorite sport which you watched 
+33.A time you moved to a new home or a new school 
+34.A time you received something but not pay it
+35.A time you saw lots of people were smiling 
+36.An interesting conversation with a stranger 
+37.A happy time in your childhood/an important memory 
+38.A positive change in your life 
+39.A company or organization that employs a lot of people
+40.Something you did with a group of people 
+41.A bicycle trip 
+42.A holiday 
+43.A TV drama series 
+44.A statue or work of art 
+45.A Person Apologized to You 
+46.A Person Who Made Contribution 
+47.Family Member You Are Close To 
+46.A Polluted Place 
+49.Short Vacation 
+50.Job For the Future 
+51.Local News 
+52.An Interesting Story 
+53.Clothing 
+54.A Product That Made You Happy 
+55.Long-time Decision 
+56.TV Program 
+57.A Photo Of Yourself 
+58.A Sport You've Learnt 
+59.A Dinner With Friends 
+60.A Family You Like 
+61.Your Dream 
+62.An Interesting Novel 
+63.A Goal To Achieve 
+64.Happy Event 
+65.Weather Changed Your Plan 
+66.Communicating In Foreign Language 
+67.A Short Trip 
+68.Long Journey 
+69.An Important Job 
+70.Conversation 
+71.Foreign Country 
+72.Sth. Forgot To Do 
+73.A Person Speak Foreign Language 
+74. Disagreement 
+75.Dress Well 
+76.Surprised To Meet Sb. 
+77.Cafe 
+78.Job 
+79.Got up early 
+80.Educational TV Programs 
+81. Stage 
+82.Local Area 
+83. Kid 
+84. Place To Relax 
+85.Educational Trip 
+86.A Gift 
+87.Historical Place 
+88. Film 
+89.A Special Trip 
+90.Family Member 
+91.An Activity To Keep Fit 
+92. Teamwork 
+93.Sth You Borrowed 
+94.An Indoor Game 
+95.A Childhood Song 
+96.A Successful Company 
+97.A Photograph 
+98.Watch The Sky 
+99.House 
+100.Wait Sth. 
+101.Famous Person Know From News 
+102.A Long Walk 
+103.0ne Day Off 
+104.Law About Environment 
+105.Art/Craft Activity 
+106.Special Festival 
+107.Sth Noisy 
+108.A Street 
+109.Travelling By Plane 
+110.A Skill 
+111.A Success 
+112.A Place You Can Read Or Write 
+113.Sth. To Learn 
+114.A Child Made You Laugh 
+115.Good Leader 
+116.Family Event 
+117.Surprise 
+118.Sth. Interesting 
+119.Sth. You Want To Buy 
+120.Lont Your Way 
+121.Subject you're interested 
+122.An Unusual Building 
+123.Colourful Place 
+124.An Exciting Sports 
+125.Not telling the whole truth 
+126.Cooking 
+127.Good news 
+128.Be Friendly 
+129.An Ambition 
+130.An APP 
+131. Waste Of Time 
+132.A Good Habit 
+133.A Person you want to be similar with 
+134.A Handsome Person 
+135.A Prize You Won 
+136.Sports Star 
+137.A Traffic Jam 
+138.Sth. You Shared 
+139.An Interesting Job 
+140.Advice 
+141.Electronic Device 
+142.A Future Trip 
+143.A Book You Like 
+144.vehicle 
+145.Help Others 
+146.A Family Celebration 
+147.A Place Near Water 
+148.Old Person 
+149.Toy 
+150.Singer or Band 
+151.An Important Letter 
+152.A Family Business 
+153.A friend haven't seen 
+154.A Famous Person 
+155.Good Friend 
+156.Garden/Park 
+157.Cornic Actor 
+158.Big City 
+159.Beautiful Place 
+160.Your School 
+161.Street Market 
+162.Foreign Culture 
+163.Natural Beauty 
+164.Radio Program 
+165.Important Law 
+166.Interesting Animal 
+167.Learning A Language 
+168.Magazine/Newspaper 
+169.5th. Seldom Use 
+170.Advertsement You Remember 
+171.Native Product 
+172.Sth. Do With Old Person 
+173.A Movie Dislike 
+174.First Cellphone 
+175.Broken Equipment 
+176.Course 
+177.Good Service 
+178.Invite Other For Meal 
+179.Event Changed Your Life 
+180.Stay Away From Home 
+181.Success Of Your Friend 
+182.Wedding 
+183.Positive Experience 
+184.Help A Neighbor 
+185.Saving Money For Purchasing 
+186.Foreign Movie 
+187.Place For Study 
+188.Club 
+189.Busy Time 
+190.Invited To A Meal 
+191. Intelligent Person 
+192.Leader you admire 
+193.A person you spend time with 
+194.Creative person 
+195.A person to live with you 
+196.Interesting Public Place 
+197.Antiques/Old things 
+198.Personality 
+199.Interesting Tradition 
+200.Methods to Save Money 
+201.Eating Special Food 
+202.Big Company 
+203.Skill Learnt When You Were A Kid 
+204.A Course You Want to Learn 
+205.Mistake Once Made 
+206.Getting Angry 
+207.A Journey You Disliked 
+208.An Activity In School 
+209.Someone talktive 
+210.Childhood friend 
+211.Celebrity 
+212.Building you like 
+213.Something important you lost 
+214.Magazine you like 
+215.Something to be replaced 
+216.Interesting subject 
+217.Skill you learned 
+218.Photo of you 
+219.A sport you want to try 
+220.Quiet place 
+221. Development 
+222.Place to visit with friends 
+223.Change a plan 
+224.Party 
+225.Clothes for special occasion 
+226.Concentration 
+227.Shopping in street market 
+228.Something interesting undone 
+229.Trip by public transport 
+230.Competition 
+231.Trip in future 
+232.A visit to your home 
+233.Perfect holiday 
+234.A Well-Paid Job 
+235.A Historical Event 
+236.An Interesting Neighbour 
+237.An Interesting Apartment 
+238.A Decision You Disagree With 
+239.A Person That Influence You 
+240.An Enjoyable Activity 
+241.Not Allowed to Use Mobile Phone 
+242.Two People From the Same Family 
+243.A Quiet Place 
+244.A Person That Just Moved Home 
+245.Use Imagination 
+246.Spent Time With A Child 
+247.A Popular Place 
+248.A Family Member 
+249.A Newly-Opened Shop 
+250.The Weather You Like 
+251.A Small Business 
+252.A Plan In Your Life 
+253.An Interesting Song 
+254.An Interesting Talk/Speech 
+255.A Book You Want to Read Again 
+256.The Politest Person 
+257.A Person Who Made You Laugh 
+258.An Important Place In Your City 
+259.A Foreign Food 
+260.Science You Are Interested In 
+261.Tall Buildings You Like Or Dislike 
+262.An Expensive Activity 
+263.A Website You Often visit 
+264.Activities You Do After Work 
+265.A Public Place For Sports 
+266.A Team Project 
+267.A Piece Of Equipment 
+268.A Shopping Website 
+269.A Missed Appointment 
+270.A Person You Want To Know More 
+271.An Unusual Thing 
+272.A Bicycle Trip 
+273.Work In A Foreign Country 
+274.A popular person 
+275.A toy you had 
+276.Favorite season 
+277.A TV program 
+278.A photo that you remember 
+279.A piece of technology 
+280.A skill you haven't learned 
+281.A public place that needs improvements > 
+282.A city or country that you like to live in 
+283.River or lake 
+284.Being late 
+285.Unforgettable meal 
+286.Historical period 
+287.Something you learned 
+288.Someone visiting your home 
+289.Event you celebrated 
+290.Be polite 
+291. Memorable story 
+292.Something with an old person 
+293.Didnt spend much money
+294.Save money
+295.Someone said something good
+296.A popular swimming place
+297.A newly-opened shop
+298.A plan in your life
+299.A historical person
+300.A good parent
+301.A business person
+302.An interesting foreigner
+303.Someone knowledgeable
+304.A traditional product
+305.A piece of furniture
+306.A place where people listen to music
+307.A leisure facility
+308.An interesting place that not many tourists get there
+309.A rule at your school
+310.A time when you were teaching
+311.An experience about cellphone
+312.A good decision
+313.An achievement that you are proud of
+314.Something you bought because of advertisement
+315.A good news heard from other people
+316.Favourite song
+317.Money as present
+318.Activity when alone
+319.Borrow something
+320.Someone to know more
+321.Information from Internet
+322.Something given to you
+323.Interesting person to meet
+324.Something you made
+325.Scared experience
+326.Medicine you had
+327.TV Program/film made you laugh
+328.Last book you read
+329.Good law/rule
+330.Environment protector
+331.Important decision
+332.Interesting talk or lecture
+333.Place far away to travel
+334.Satisfied complaint
+335.Teenager you know
+336.Equipment broken
+337.Important plant
+338.Place easy for study
+339.Beautiful city
+340.Interesting part of country
+341.Skill learnt by a long time
+342.Childhood game
+343.Helping others
+344.Interesting job in future
+345.Happy experience before

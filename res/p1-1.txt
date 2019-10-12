@@ -1,0 +1,15 @@
+1.Amusement park
+2.Makeup
+3.Fatigue/Tiredness
+4.Eating
+5.Weather(Sunshine)
+6.Outdoor activity(Forest)
+7.Haircut
+8.Jeans
+9.Visiting hometown
+10.Vacation
+11.Languages
+12.Social media
+13.Island
+14.Voice
+15.Walk
